@@ -1,17 +1,26 @@
 
  ## For Windows: 
 
- OS version 10+: OS which supports Hyper-V, please follow the instructions
- 
-     
+ Latest Version - OS version-> 10+: OS which supports Hyper-V, please follow the instructions
+      
       https://docs.docker.com/v17.09/docker-for-windows/install/#start-docker-for-windows
  
- OS version 7,8: For legacy versions follow these instructions
+ Older Version - OS version-> 7,8, 9, 10 (Home Edition): For legacy versions follow these instructions
  
       https://docs.docker.com/toolbox/toolbox_install_windows/
      
-    
-    
+     
+
+ ## For Mac OS: 
+ Latest Version - Hardware must be a 2010 or a newer model & macOS must be version 10.13 or newer
+ 
+        https://docs.docker.com/docker-for-mac/install/
+        
+ Older Version: 
+  
+        https://docs.docker.com/toolbox/toolbox_install_mac/
+        
+ 
  ## For Ubuntu: 
 
     sudo apt-get update
