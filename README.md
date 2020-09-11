@@ -88,3 +88,7 @@ It should print this in the console:
 5. Upload the image to public docker registry:
 
        docker push {user_name}/{repo_name}
+       
+
+## Getting started with Docker:
+For hands-on/Examples please go to https://github.com/mbzama/docker-training       
