@@ -1,6 +1,7 @@
 
  ## For Windows: 
 
+Option 1: 
  Latest Version - OS version-> 10+: OS which supports Hyper-V, please follow the instructions
       
       https://docs.docker.com/v17.09/docker-for-windows/install/#start-docker-for-windows
@@ -9,7 +10,10 @@
  
       https://docs.docker.com/toolbox/toolbox_install_windows/
      
-     
+Option 2: Use WSL
+
+      https://docs.microsoft.com/en-us/windows/wsl/
+
 
  ## For Mac OS: 
  Latest Version - Hardware must be a 2010 or a newer model & macOS must be version 10.13 or newer
